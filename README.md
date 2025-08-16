@@ -1,0 +1,2 @@
+# yggpy_gm
+基于Python的国密算法实现，对标yggjs_gm和JavaScript版本和ygggo_gm的Go语言版本
