@@ -7,5 +7,8 @@ setup(
     author="",
     packages=find_packages(exclude=("tests", "examples")),
     python_requires=">=3.8",
+    install_requires=[
+        "gmssl>=3.2.1",
+    ],
 )
 
