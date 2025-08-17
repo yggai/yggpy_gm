@@ -1,1 +1,1 @@
-from .sm2 import sm2Decrypt, sm2Encrypt
+from .sm2 import sm2Decrypt, sm2Encrypt, getSm2Key, sm2Encrypt

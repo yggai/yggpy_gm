@@ -1,7 +1,7 @@
 import yggpy_gm as gggm
 
 # 生成公钥和私钥
-privateKey, publicKey  = gggm.getKey()
+privateKey, publicKey  = gggm.getSm2Key()
 print('私钥：', privateKey)
 print('公钥：', publicKey)
 
